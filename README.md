@@ -14,7 +14,7 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="
 
 <h3 align="left">Siga-me em minhas redes sociais:</h3>
 <p align="left">
-<a href="linkedin.com/in/eduardo-costa-silva-49958b191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/eduardo-costa-silva-49958b191" height="30" width="30" vspace="10" hspace="10"/></a>
+<a href="https://www.linkedin.com/in/eduardo-costa-silva-49958b191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/eduardo-costa-silva-49958b191" height="30" width="30" vspace="10" hspace="10"/></a>
 <a href="https://www.instagram.com/duarducosta?igsh=ZWk3ZzFkOTY5aTI3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duarducosta" height="30" width="30" vspace="10" hspace="10"/></a>
 </p>
 
